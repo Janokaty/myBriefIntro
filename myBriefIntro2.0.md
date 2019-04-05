@@ -65,6 +65,8 @@ jq是js的一个库，相比js要简化些，很多东西别人都给我们封�
 
 ![7](<https://github.com/Janokaty/myBriefIntro/blob/master/7.png>)
 
+![8](<https://github.com/Janokaty/myBriefIntro/blob/master/8.jpg>)
+
 ## 六、总结
 
 ```
